@@ -1,4 +1,4 @@
-As of 9/10/2018, our Zine Board has the following zines:
+As of 10/9/2018, our Zine Board has the following zines:
 
 1. UVA Disorientation Guide, https://t.co/g9H7Q6uSi2  
 2. Handbook for the Activist Archivist (Los Angleles Archivists Collective), https://t.co/n5ef70MwA9  
@@ -10,3 +10,4 @@ As of 9/10/2018, our Zine Board has the following zines:
 8. Opulent Artifical Intelligence: A Manifesto (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-zine-opulentai.pdf  
 9. Really Friendly Command Line Intro (Tracy Osborn), https://hellowebbooks.com/learn-command-line/  
 10. R3PAIR (continent 6.1 / 2017; eds. Lara Houston, Daniela K. Rosner, Steven J. Jackson, Jaimie Allen), http://continentcontinent.cc/index.php/continent/issue/view/27
+11. "GIT PURR! Git Commands Explained with Cats!" (Tomomi Imura), https://girliemac.com/blog/2017/12/26/git-purr/
