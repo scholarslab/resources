@@ -1,4 +1,4 @@
-As of 10/9/2018, our Zine Wall has:
+As of 10/23/2018, our Zine Wall has:
 1. UVA Disorientation Guide, https://t.co/g9H7Q6uSi2  
 2. Handbook for the Activist Archivist (Los Angeles Archivists Collective), https://t.co/n5ef70MwA9  
 3. Oops, I made an open-source art tool! (Kate Compton), https://t.co/6QO6ErsTo2  
