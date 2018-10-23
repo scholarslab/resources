@@ -10,3 +10,7 @@ As of 10/9/2018, our Zine Wall has:
 9. Really Friendly Command Line Intro (Tracy Osborn), https://hellowebbooks.com/learn-command-line/  
 10. R3PAIR (continent 6.1 / 2017; eds. Lara Houston, Daniela K. Rosner, Steven J. Jackson, Jaimie Allen), http://continentcontinent.cc/index.php/continent/issue/view/27
 11. "GIT PURR! Git Commands Explained with Cats!" (Tomomi Imura), https://girliemac.com/blog/2017/12/26/git-purr/
+12. "everyone’s an AI when ur an AI too: a bot by galaxykate" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-zine-everyonesai.pdf
+13. "Encyclopedia of Generativity" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-zine-encyclopedia.pdf
+14. "Tracery: A text geneation JS Library" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-zine-tracery.pdf
+15. "Bot Poetics" (Kate Compton), http://www.galaxykate.com/www.galaxykate.com/pdfs/galaxykate-allzines.zip
