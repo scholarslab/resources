@@ -13,4 +13,4 @@ As of 10/23/2018, our Zine Wall has:
 12. "everyone’s an AI when ur an AI too: a bot by galaxykate" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-zine-everyonesai.pdf
 13. "Encyclopedia of Generativity" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-zine-encyclopedia.pdf
 14. "Tracery: A text geneation JS Library" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-zine-tracery.pdf
-15. "Bot Poetics" (Kate Compton), http://www.galaxykate.com/www.galaxykate.com/pdfs/galaxykate-allzines.zip
+15. "Bot Poetics" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-handout-botpoetics.pdf
