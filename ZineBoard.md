@@ -1,3 +1,6 @@
+Welcome to the SLab Zine Wall!
+Please take a zine to read or keep—we can print more.
+
 As of 10/23/2018, our Zine Wall has:
 1. UVA Disorientation Guide, https://t.co/g9H7Q6uSi2  
 2. Handbook for the Activist Archivist (Los Angeles Archivists Collective), https://t.co/n5ef70MwA9  
