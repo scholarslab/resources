@@ -17,3 +17,4 @@ As of 10/23/2018, our Zine Wall has:
 13. "Encyclopedia of Generativity" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-zine-encyclopedia.pdf
 14. "Tracery: A text generation JS Library" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-zine-tracery.pdf
 15. "Bot Poetics" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-handout-botpoetics.pdf
+16. "Appalachian Resistance Histories" (The Holler Network), https://hollernetwork.files.wordpress.com/2018/10/resistance-histories.pdf
