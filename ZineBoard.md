@@ -1,7 +1,7 @@
 Welcome to the SLab Zine Wall!
 Please take a zine to read or keep—we can print more.
 
-As of 10/23/2018, our Zine Wall has:
+As of 11/15/2018, our Zine Wall has:
 1. UVA Disorientation Guide, https://t.co/g9H7Q6uSi2  
 2. Handbook for the Activist Archivist (Los Angeles Archivists Collective), https://t.co/n5ef70MwA9  
 3. Oops, I made an open-source art tool! (Kate Compton), https://t.co/6QO6ErsTo2  
@@ -18,3 +18,4 @@ As of 10/23/2018, our Zine Wall has:
 14. "Tracery: A text generation JS Library" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-zine-tracery.pdf
 15. "Bot Poetics" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-handout-botpoetics.pdf
 16. "Appalachian Resistance Histories" (The Holler Network), https://hollernetwork.files.wordpress.com/2018/10/resistance-histories.pdf
+17. "Librarian field notes: A zine on queer outreach ideas, reflection, and a perfect cat named Trout" by Kate Kitchens (https://www.slideshare.net/johnsonkn04/librarian-field-notes-digital-slide-version)
