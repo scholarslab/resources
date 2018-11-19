@@ -18,5 +18,4 @@ As of 11/15/2018, our Zine Wall has:
 14. "Tracery: A text generation JS Library" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-zine-tracery.pdf
 15. "Bot Poetics" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-handout-botpoetics.pdf
 16. "Appalachian Resistance Histories" (The Holler Network), https://hollernetwork.files.wordpress.com/2018/10/resistance-histories.pdf
-17. "Librarian field notes: A zine on queer outreach ideas, reflection, and a perfect cat named Trout" by Kate Kitchens (https://www.slideshare.net/johnsonkn04/librarian-field-notes-digital-slide-version)
-18. "Casual creators: designing tools for casual creativity (a dissertation zine)" by Kate Compton (http://www.galaxykate.com/pdfs/galaxykate-zine-casualcreators-printable.pdf)
+17. "Casual creators: designing tools for casual creativity (a dissertation zine)" by Kate Compton (http://www.galaxykate.com/pdfs/galaxykate-zine-casualcreators-printable.pdf)
