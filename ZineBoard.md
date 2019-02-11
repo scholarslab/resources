@@ -1,8 +1,8 @@
 Welcome to the SLab Zine Wall!
 Please take a zine to read or keep—we can print more.
 
-As of 11/15/2018, our Zine Wall has:
-1. UVA Disorientation Guide, https://t.co/g9H7Q6uSi2  
+As of2/11/2019, our Zine Wall has:
+1. UVA Disorientation Guide (2018), https://t.co/g9H7Q6uSi2  
 2. Handbook for the Activist Archivist (Los Angeles Archivists Collective), https://t.co/n5ef70MwA9  
 3. Oops, I made an open-source art tool! (Kate Compton), https://t.co/6QO6ErsTo2  
 4. The Tyranny of Civility (Marc Mazique), https://t.co/pDQB0F0cbK  
@@ -19,3 +19,6 @@ As of 11/15/2018, our Zine Wall has:
 15. "Bot Poetics" (Kate Compton), http://www.galaxykate.com/pdfs/galaxykate-handout-botpoetics.pdf
 16. "Appalachian Resistance Histories" (The Holler Network), https://hollernetwork.files.wordpress.com/2018/10/resistance-histories.pdf
 17. "Casual creators: designing tools for casual creativity (a dissertation zine)" by Kate Compton (http://www.galaxykate.com/pdfs/galaxykate-zine-casualcreators-printable.pdf)
+18. "Kult of the Cyber Witch" Issue 1 ("a holistic information security + culture zine that centers on people of marginalised genders/sexes experiences within the Oceania region"; Kult of the Cyber Witch, https://twitter.com/k07cw) https://kultofthecyberw.itch.io/kult-of-the-cyber-witch-issue-0
+19. "Hand Job: A Zine about Mass Digitization Labor, Error, and Art" Issues 1-4 by Aliza Elkin (http://alizaelk.in/digitize/)
+20. "Help! I Have a Manager: How to Understand Your Manager's Job & Do Awesome Work Toegther" by Julia Evans (https://gumroad.com/l/manager-zine)
