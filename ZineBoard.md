@@ -1,7 +1,7 @@
 Welcome to the SLab Zine Wall!
 Please take a zine to read or keep—we can print more.
 
-As of2/11/2019, our Zine Wall has:
+As of 2/11/2019, our Zine Wall has:
 1. UVA Disorientation Guide (2018), https://t.co/g9H7Q6uSi2  
 2. Handbook for the Activist Archivist (Los Angeles Archivists Collective), https://t.co/n5ef70MwA9  
 3. Oops, I made an open-source art tool! (Kate Compton), https://t.co/6QO6ErsTo2  
