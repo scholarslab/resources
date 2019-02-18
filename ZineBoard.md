@@ -21,4 +21,6 @@ As of 2/11/2019, our Zine Wall has:
 17. "Casual creators: designing tools for casual creativity (a dissertation zine)" by Kate Compton (http://www.galaxykate.com/pdfs/galaxykate-zine-casualcreators-printable.pdf)
 18. "Kult of the Cyber Witch" Issue 1 ("a holistic information security + culture zine that centers on people of marginalised genders/sexes experiences within the Oceania region"; Kult of the Cyber Witch, https://twitter.com/k07cw) https://kultofthecyberw.itch.io/kult-of-the-cyber-witch-issue-0
 19. "Hand Job: A Zine about Mass Digitization Labor, Error, and Art" Issues 1-4 by Aliza Elkin (http://alizaelk.in/digitize/)
-20. "Help! I Have a Manager: How to Understand Your Manager's Job & Do Awesome Work Toegther" by Julia Evans (https://gumroad.com/l/manager-zine)
+20. "Help! I Have a Manager: How to Understand Your Manager's Job & Do Awesome Work Toegther" by Julia Evans (https://gumroad.com/l/manager-zine)  
+21. "Reserve & Renew: The LIS Mental Health Zine" Issue #1, edited by Kelly McElroy, Abigail Phillips, Kate Deibel, Marisol Moreno Ortiz, Violet Fox, Annie Pho, Nicole Gustavsen (tinyurl.com/reserve-renew2)  
+22. "Reserve and Renew: It Came from the Brain" Issue #2 (The LIS Mental Health Zine), edited by Kelly McElroy, Abigail Phillips, Kate Deibel, Marisol Moreno Ortiz, Violet Fox, Annie Pho, Nicole Gustavsen (tinyurl.com/reserve-renew2)  
