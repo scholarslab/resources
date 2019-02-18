@@ -1,7 +1,17 @@
-Welcome to the SLab Zine Wall!
-Please take a zine to read or keep—we can print more.
+# Welcome to the SLab Zine Wall!
+Please take a zine to read or keep—we can print more (the few zines we can't print more of are visibly marked).
+Contact Amanda (visconti@virginia.edu) with questions/zines to add, or visit ScholarsLab.org (or @ScholarsLab on Twitter) for more about the lab.
 
-As of 2/11/2019, our Zine Wall has:
+# Topics:
+- Suggest your own zine topics you'd like to contribute or see us collect!
+- Social justice, especially as it relates to the following:
+- Friendly introductions to technical, programming, professional, and/or scholarly concepts
+- Experimental and digital humanities
+- Cultural heritage/other GLAM work
+- GIS and other mapping
+- The above but particular to University of Virginia Library, UVA, Charlottesville, or Virginia
+
+# As of 2/18/2019, the Scholars' Lab Zine Wall has:
 1. UVA Disorientation Guide (2018), https://t.co/g9H7Q6uSi2  
 2. Handbook for the Activist Archivist (Los Angeles Archivists Collective), https://t.co/n5ef70MwA9  
 3. Oops, I made an open-source art tool! (Kate Compton), https://t.co/6QO6ErsTo2  
