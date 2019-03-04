@@ -34,4 +34,5 @@ Contact Amanda (visconti@virginia.edu) with questions/zines to add, or visit Sch
 20. "Help! I Have a Manager: How to Understand Your Manager's Job & Do Awesome Work Toegther" by Julia Evans (https://gumroad.com/l/manager-zine)  
 21. "Reserve & Renew: The LIS Mental Health Zine" Issue #1, edited by Kelly McElroy, Abigail Phillips, Kate Deibel, Marisol Moreno Ortiz, Violet Fox, Annie Pho, Nicole Gustavsen (tinyurl.com/reserve-renew2)  
 22. "Reserve and Renew: It Came from the Brain" Issue #2 (The LIS Mental Health Zine), edited by Kelly McElroy, Abigail Phillips, Kate Deibel, Marisol Moreno Ortiz, Violet Fox, Annie Pho, Nicole Gustavsen (tinyurl.com/reserve-renew2)  
-23. "How do calculators even" by Amy Wibowo (https://shop.bubblesort.io/products/how-do-calculators-even-zine)
+23. "How do calculators even" by Amy Wibowo (https://shop.bubblesort.io/products/how-do-calculators-even-zine)  
+24. "Look! It's the Rubenstein Library Processing Manual" by Meghan Lyon (https://drive.google.com/drive/folders/0B5NFn3rudrDgTk9HXzdUZHNMaUk)
