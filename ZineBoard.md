@@ -11,27 +11,7 @@ Contact Amanda (visconti@virginia.edu) with questions/zines to add, or visit Sch
 - GIS and other mapping
 - The above but particular to University of Virginia Library, UVA, Charlottesville, or Virginia
 
-*Last updated: 6/3/2019*
-
-| Title | Author | Twitter Handle | URL | Can't circulate | On board yet |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| UVA Disorientation Guide (2018)  |   |   | https://issuu.com/uvastudentsunited/docs/disorientation_zine_draft_4  | x  | x  |
-| Handbook for the Activist Archivist  | Los Angeles Archivists Collective |   | http://www.laacollective.org/wp-content/uploads/2017/01/LAAC_handbook-activist-archivist-zine.pdf  |   | x  |
-
-
-
-
-
-
-
-
-
-
-# As of 2/18/2019, the Scholars' Lab Zine Wall has:
-1. ,  
-2.  (),   
-3. Oops, I made an open-source art tool! (Kate Compton), https://t.co/6QO6ErsTo2  
-4. The Tyranny of Civility (Marc Mazique), https://t.co/pDQB0F0cbK  
+As of 6/3/2019, we are moving this list to a spreadsheet you can persuse [here](https://docs.google.com/spreadsheets/d/1WScLt7bdXlE4k-TJIGBIiuRTQ_DE1hkfjkE-Uoebm1U/edit?usp=sharing). Below items aren't moved yet:
 5. Hip Hip Array! (Amy Wibowo), https://shop.bubblesort.io/products/hip-hip-array   
 6. Networking! Ack! (Julia Evans), https://jvns.ca/networking-zine.pdf  
 7. Let's learn tcpdump (Julia Evans), https://jvns.ca/tcpdump-zine.pdf  
